@@ -1,5 +1,5 @@
 # KEY-HANG
-A 3d printable key hanger which you can detach if you want .If you have more keys you can attach the part.
+A 3d printable key hanger which you can detach if you want .If you have more keys you can attach the part. It is designed fully on tinkercad.
 
 ## why this exist?
 I made this project for my dad and i will give this to my dad . cause he always forgot where he put his keys and the most annoying thing is he always tell me to search for it some times he scold me eventhough he put the keys.
