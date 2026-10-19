@@ -14,9 +14,14 @@ This hanger can be separated.Thats the big advantage of this hanger . you can al
 
 <img width="421" height="352" alt="Screenshot 2026-10-19 121252" src="https://github.com/user-attachments/assets/24f93627-3694-46b9-97b3-8979b7e520eb" />
 
+# BOM
+
 | item | Description | Quantity | price |
 | :--- | :---: | ---: | :--- |
 | 3d print | PlA ( 30g ) | 1 | 1.5$ |
 | shipping | - | - | 3$ |
 | Total |  |  | 4.5$ |
+
+
+
 
