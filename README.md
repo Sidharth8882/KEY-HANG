@@ -5,7 +5,7 @@ A 3d printable key hanger which you can detach if you want .If you have more key
 I made this project for my dad and i will give this to my dad . cause he always forgot where he put his keys and the most annoying thing is he always tell me to search for it some times he scold me eventhough he put the keys.
 
 ## specifications
-This hanger can be separated.Thats the big advantage of this hanger . you can all so decide which hanger block goes to who.
+This hanger can be separated.Thats the big advantage of this hanger . you can all so decide which hanger block goes to who. Each block is 14cm * 3cm and 5mm thick.
 
 ### the pictures
 <img width="532" height="336" alt="Screenshot 2026-10-19 121223" src="https://github.com/user-attachments/assets/653c0d22-97d2-4656-bc50-e3d6688a6abd" />  
